@@ -12,21 +12,14 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         <th>Autor</th>
                         <th>Precio</th>
                     </tr>
-                    <xsl:for-each select="libreria/libro">
+                    <xsl:for-each select="libreria/libro[autor!='J.R.R. Tolkien']">
                     <xsl:sort select="precio" data-type="number"/>
-                        <tr>
-                            <td>
-                                <xsl:value-of select="isbn"/>
-                            </td>
-                            <td>
-                                <xsl:value-of select="titulo"/>
-                            </td>
-                            <td>
-                                <xsl:value-of select="autor"/>
-                            </td>
-                            <td>
-                                <xsl:value-of select="precio"/>
-                            </td>
+                    <xsl:sort select="autor"/>
+                        <tr bgcolor="#ADD8E6">
+                            <td><xsl:value-of select="isbn"/></td>
+                            <td><xsl:value-of select="titulo"/></td>
+                            <td><xsl:value-of select="autor"/></td>
+                            <td><xsl:value-of select="precio"/></td>
                         </tr>
                     </xsl:for-each>
                 </table>
