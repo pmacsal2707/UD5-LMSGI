@@ -7,7 +7,7 @@
         <editor>Charles River Media</editor>
         <isbn>978-1584503804</isbn>
         <precio>50.06</precio>
-        <numPaginas>200</numPaginas>
+        <numPaginas>100</numPaginas>
     </libro>
     <libro>
         <titulo>Principios de seguridad informática para usuarios</titulo>
@@ -31,7 +31,7 @@
         <editor>Random House</editor>
         <isbn>978-84-270-3043-7</isbn>
         <precio>8.99</precio>
-        <numPaginas>256</numPaginas>
+        <numPaginas>90</numPaginas>
     </libro>
     <libro>
         <titulo>Cien años de soledad</titulo>
@@ -88,6 +88,6 @@
         <editorial>Penguin Random House</editorial>
         <isbn>978-1982147024</isbn>
         <precio>60.50</precio>
-        <numPaginas>200</numPaginas>
+        <numPaginas>149</numPaginas>
     </libro>    
 </libreria>
