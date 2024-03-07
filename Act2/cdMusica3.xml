@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd_p3.xsl"?>
+<cds>
+    <cd>
+       <titulo_album>The Dark Side of the Moon</titulo_album>
+       <artista>Pink Floyd</artista>
+       <canciones>
+         <cancion>
+            <titulo>Speak to Me</titulo>
+            <duracion>3:25</duracion>
+         </cancion>
+         <cancion>
+            <titulo>Breathe</titulo>
+            <duracion>4:10</duracion>
+         </cancion>
+         <cancion>
+            <titulo>On the Run</titulo>
+            <duracion>3:40</duracion>
+         </cancion>
+         <cancion>
+            <titulo>Time</titulo>
+            <duracion>3:20</duracion>
+         </cancion>
+       </canciones>
+       <sello_discografico>Harvest Records</sello_discografico>
+       <anio_publicacion>1973</anio_publicacion>
+    </cd>
+    <cd>
+        <titulo_album>Bad Guy</titulo_album>
+        <artista>Billie Eilish</artista>
+        <canciones>
+          <cancion>
+             <titulo>Bad Guy</titulo>
+             <duracion>3:25</duracion>
+          </cancion>
+          <cancion>
+            <titulo>You Should See Me in a Crown</titulo>
+            <duracion>3:00</duracion>
+         </cancion>
+         <cancion>
+            <titulo>All the Good Girls Go to Hell</titulo>
+            <duracion>3:00</duracion>
+         </cancion>
+        </canciones>
+        <sello_discografico>Interscope Records</sello_discografico>
+        <anio_publicacion>2020</anio_publicacion>
+     </cd>
+     
+     <cd>
+        <titulo_album>Invasion of Privacy</titulo_album>
+        <artista>Cardi B</artista>
+        <canciones>
+          <cancion>
+             <titulo>Bodak Yellow</titulo>
+             <duracion>3:25</duracion>
+          </cancion>
+          <cancion>
+            <titulo>Bartier Cardi</titulo>
+            <duracion>3:00</duracion>
+         </cancion>
+         <cancion>
+            <titulo>Be Careful</titulo>
+            <duracion>3:00</duracion>
+         </cancion>
+         <cancion>
+            <titulo>I Like It</titulo>
+            <duracion>3:00</duracion>
+         </cancion>
+        </canciones>
+        <sello_discografico>KSR/Atlantic</sello_discografico>
+        <anio_publicacion>2018</anio_publicacion>
+     </cd>
+     <cd>
+        <titulo_album>Purpose</titulo_album>
+        <artista>Justin Bieber</artista>
+        <canciones>
+          <cancion>
+             <titulo>Sorry</titulo>
+             <duracion>3:25</duracion>
+          </cancion>
+          <cancion>
+            <titulo>Love Yourself</titulo>
+            <duracion>3:40</duracion>
+         </cancion>
+         <cancion>
+            <titulo>Mark My Words</titulo>
+            <duracion>3:00</duracion>
+         </cancion>
+         <cancion>
+            <titulo>Where Are Ü Now</titulo>
+            <duracion>3:40</duracion>
+         </cancion>
+         <cancion>
+            <titulo>What Do You Mean?</titulo>
+            <duracion>3:20</duracion>
+         </cancion>
+        </canciones>
+        <sello_discografico>Def Jam Recordings</sello_discografico>
+        <anio_publicacion>2015</anio_publicacion>
+     </cd>
+     <cd>
+        <titulo_album>25</titulo_album>
+        <artista>Adele</artista>
+        <canciones>
+          <cancion>
+             <titulo>Hello</titulo>
+             <duracion>3:25</duracion>
+          </cancion>
+          <cancion>
+            <titulo>Send My Love (To Your New Lover)</titulo>
+            <duracion>3:10</duracion>
+         </cancion>
+         <cancion>
+            <titulo>I Miss You</titulo>
+            <duracion>3:30</duracion>
+         </cancion>
+         <cancion>
+            <titulo>When We Were Young</titulo>
+            <duracion>3:20</duracion>
+         </cancion>
+         <cancion>
+            <titulo>Remedy</titulo>
+            <duracion>3:30</duracion>
+         </cancion>
+        </canciones>
+        <sello_discografico>XL Recordings</sello_discografico>
+        <anio_publicacion>2015</anio_publicacion>
+     </cd>
+     <cd>
+        <titulo_album>Reputation</titulo_album>
+        <artista>Taylor Swift</artista>
+        <canciones>
+         <cancion>
+            <titulo>Look What You Made Me Do</titulo>
+            <duracion>3:25</duracion>
+         </cancion>
+         <cancion>
+            <titulo>Ready for It?</titulo>
+            <duracion>3:10</duracion>
+         </cancion>
+         <cancion>
+            <titulo>End Game</titulo>
+            <duracion>3:30</duracion>
+         </cancion>
+         <cancion>
+            <titulo>I Did Something Bad</titulo>
+            <duracion>3:20</duracion>
+         </cancion>
+         <cancion>
+            <titulo>Delicate</titulo>
+            <duracion>3:30</duracion>
+         </cancion>
+        </canciones>
+        <sello_discografico>Big Machine Records</sello_discografico>
+        <anio_publicacion>2017</anio_publicacion>
+     </cd>
+</cds>
